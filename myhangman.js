@@ -279,7 +279,6 @@ if (healthPoint === 0) {
   console.log ("You won!")
   console.log ("Congratulations!")
   console.log ("Your word was: ",solution)
-  console.log ("Press enter to see your wonderful reward.")
 }
 
 process.exit(1)
